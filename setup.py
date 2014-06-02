@@ -21,7 +21,7 @@ from setuptools import setup
 setup(
     name = 'bioasp',
     version = '1.2dev',
-    url='http://pypi.python.org/pypi/bioasp/',
+    url='http://bioasp.github.io/',
     license='GPLv3+',
     description="Answer Set Programming for Systems Biology",
     long_description=open('README.md').read(),   
